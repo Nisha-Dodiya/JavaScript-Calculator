@@ -1,5 +1,5 @@
 # JavaScript Calculator
-A simple calculator built using HTML, CSS, and Vanilla JavaScript. This project performs basic arithmetic operations and helped me practice DOM manipulation, event handling, and JavaScript logic.
+A simple calculator built using HTML5, CSS3, and  JavaScript. This project performs basic arithmetic operations and helped me practice DOM manipulation, event handling, and JavaScript logic.
 
 ## Features :
 
