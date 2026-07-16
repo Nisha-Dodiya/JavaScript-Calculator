@@ -53,9 +53,10 @@ JavaScript-Calculator/
 - Better error handling
 - Improved UI and animations
 
+  ##  Live Demo
+-  https://java-script-calculator-steel.vercel.app
+
 ##  Author : Nisha Dodiya.
 GitHub: https://github.com/Nisha-Dodiya
 
-**Nisha Dodiya**
 
-GitHub: https://github.com/Nisha-Dodiya
